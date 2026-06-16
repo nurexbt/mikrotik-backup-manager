@@ -133,7 +133,7 @@ mkdir C:\xampp\htdocs\rtbackup
 **Option B: Git Clone**
 ```powershell
 cd C:\xampp\htdocs
-git clone https://github.com/YOUR_USERNAME/mikrotik-backup-manager.git rtbackup
+git clone https://github.com/nurexbt/mikrotik-backup-manager.git rtbackup
 ```
 
 #### 3.3 Verify File Structure
