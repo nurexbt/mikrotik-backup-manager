@@ -15,7 +15,7 @@ Install MikroTik Backup Manager web portal on Windows with XAMPP.
 ### Option 1: Download ZIP
 
 1. **Download from GitHub**
-   - Visit: https://github.com/YOUR_USERNAME/mikrotik-backup-manager
+   - Visit: https://github.com/nurexbt/mikrotik-backup-manager
    - Click "Code" → "Download ZIP"
    
 2. **Extract files**
