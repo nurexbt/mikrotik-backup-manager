@@ -11,7 +11,7 @@ A complete web-based backup management system for MikroTik routers with automati
 
 ```bash
 # Ubuntu/Linux Installation
-git clone https://github.com/YOUR_USERNAME/mikrotik-backup-manager.git
+git clone https://github.com/nurexbt/mikrotik-backup-manager.git
 cd mikrotik-backup-manager
 chmod +x install.sh
 sudo ./install.sh
