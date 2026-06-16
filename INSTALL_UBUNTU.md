@@ -14,7 +14,7 @@ Complete all-in-one installation of MikroTik Backup Manager on Ubuntu Server.
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/mikrotik-backup-manager.git
+git clone https://github.com/nurexbt/mikrotik-backup-manager.git
 cd mikrotik-backup-manager
 
 # Run automatic installer
@@ -77,7 +77,7 @@ sudo apt install pptpd -y
 ```bash
 # Clone to Apache web directory
 cd /var/www/html
-sudo git clone https://github.com/YOUR_USERNAME/mikrotik-backup-manager.git rtbackup
+sudo git clone https://github.com/nurexbt/mikrotik-backup-manager.git rtbackup
 
 # Set permissions
 sudo chown -R www-data:www-data /var/www/html/rtbackup
